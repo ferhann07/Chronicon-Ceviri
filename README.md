@@ -1,2 +1,2 @@
-# T-rk-e-Yama-CH
+# Turkce-Yama-CH
 Oyun ceviri
